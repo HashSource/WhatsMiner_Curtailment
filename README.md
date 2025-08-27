@@ -92,7 +92,11 @@ When you need to restore the miner back to tuning for best hashrate/efficiency:
 
 ![Restore Miner Setting Interface](assets/images/restore_miner_setting_button.png)
 
-**Note:** This restoration process requires a full reboot to return the miner to its optimal efficiency settings.
+**Important Notes:**
+
+- This restoration process requires a full reboot
+- **Tuning cache files will be cleared**, resulting in longer tuning time after reboot
+- Expect extended startup time as the miner re-tunes from scratch for optimal efficiency
 
 ## API Automation
 
