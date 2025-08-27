@@ -5,6 +5,8 @@ A practical guide for implementing dynamic power adjustment on WhatsMiner ASICs 
 ## Prerequisites
 
 - WhatsMinerTool firmware version 2025xxxx or newer
+  - [Download Latest WhatsMinerTool](https://www.whatsminer.com/src/views/firmware-download.html#Tool)
+  - [Download Latest Firmware](https://www.whatsminer.com/src/views/firmware-download.html#Firmware)
 - Power Fast Boot **MUST** be enabled for dynamic adjustment
 
 ## Quick Start
