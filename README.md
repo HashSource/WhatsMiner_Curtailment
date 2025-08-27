@@ -81,6 +81,19 @@ Enter target wattage directly (e.g., 3700W → 3200W → 3700W). The miner adjus
 - **Normal Mode:** Maintains efficiency during adjustment
 - **Fast Mode:** Immediate response but significant efficiency loss
 
+## Restoring to Normal Operation
+
+When you need to restore the miner back to tuning for best hashrate/efficiency:
+
+1. Navigate to the **Restore Miner Setting** option
+2. Click the restore button (machine will reboot)
+
+![Restore Miner Button](assets/images/restore_miner_button.png)
+
+![Restore Miner Setting Interface](assets/images/restore_miner_setting_button.png)
+
+**Note:** This restoration process requires a full reboot to return the miner to its optimal efficiency settings.
+
 ## API Automation
 
 - Enable Power Fast Boot via API before dynamic adjustments
